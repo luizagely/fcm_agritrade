@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044652638103",
+    "firebase_url": "https://agritrade-a3c50.firebaseio.com",
+    "project_id": "agritrade-a3c50",
+    "storage_bucket": "agritrade-a3c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044652638103:android:c24cee0752dd4d11",
+        "android_client_info": {
+          "package_name": "com.agely.agritrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044652638103-flbb4n7r5cilb0ht9g5g04lnm1ur764t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SuvnpLIDwGN2wR6_QNpgqEraYYOspKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
